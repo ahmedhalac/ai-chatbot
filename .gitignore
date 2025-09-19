@@ -1,0 +1,27 @@
+*.ipynb_notebooks
+*.ipynb
+
+ignore
+*.csv
+*.log
+.DS_Store
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+vv
+
+# IDE
+.idea/*
+.vscode/*
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+.mypy_cache/
